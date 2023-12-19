@@ -202,35 +202,6 @@
           "photoUrl": "https://github.com/yoko-takano.png"
         }
       ]
-    },
-    {
-      "id": 8,
-      "secondaryColor": "#8C52FF",
-      "name": "FinTech Innovations",
-      "iconUrl": "fas fa-sack-dollar",
-      "description": "FinTech Innovations is developing next-generation financial technologies, focusing on blockchain, digital banking, and smart payment systems. This project aims to revolutionize the finance sector by introducing more secure and efficient transaction methods.",
-      "startDate": "2023-08-01",
-      "endDate": "2024-07-20",
-      "projectLink": "https://fintechinnovations.com",
-      "tags": ["Finance", "Blockchain", "Digital Banking"],
-      "companyName": "Digital Finance Tech",
-      "companyIconUrl": "fa-solid fa-building",
-      "members": [
-        {
-          "primaryColor": "#c3a5ff",
-          "name": "Bruno Carvalho",
-          "role": "Blockchain Expert",
-          "description": "Spearheads the integration of blockchain technology in financial services.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        },
-        {
-          "primaryColor": "#c3a5ff",
-          "name": "Fernanda Lima",
-          "role": "Digital Banking Specialist",
-          "description": "Focuses on developing innovative digital banking platforms and services.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        }
-      ]
     }
   ]
 }
