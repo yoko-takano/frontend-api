@@ -86,64 +86,6 @@
           "photoUrl": "https://github.com/yoko-takano.png"
         }
       ]
-    },
-    {
-      "id": 4,
-      "secondaryColor": "#E06869",
-      "name": "Smart City Solutions",
-      "iconUrl": "fa-solid fa-tree-city",
-      "description": "Smart City Solutions aims to integrate advanced technologies into urban planning to create more efficient, sustainable, and livable cities. This project focuses on smart infrastructure, IoT, and eco-friendly urban development.",
-      "startDate": "2023-06-01",
-      "endDate": "2024-05-31",
-      "projectLink": "https://smartcitysolutions.com",
-      "tags": ["Urban Development", "IoT", "Sustainability"],
-      "companyName": "Urban Tech Innovations",
-      "companyIconUrl": "fa-solid fa-building",
-      "members": [
-        {
-          "primaryColor": "#dfa5a4",
-          "name": "Tomás Almeida",
-          "role": "Urban Planner",
-          "description": "Oversees the integration of technology into urban development plans.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        },
-        {
-          "primaryColor": "#dfa5a4",
-          "name": "Sara Costa",
-          "role": "Environmental Consultant",
-          "description": "Advises on sustainable practices and eco-friendly solutions in urban settings.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "secondaryColor": "#DB6EBF",
-      "name": "HealthTech Innovation",
-      "iconUrl": "fa-solid fa-heart-pulse",
-      "description": "HealthTech Innovation is a project dedicated to developing cutting-edge technology solutions in healthcare. It focuses on telemedicine, patient data analysis, and developing new digital health tools.",
-      "startDate": "2023-04-15",
-      "endDate": "2024-03-30",
-      "projectLink": "https://healthtechinnovation.com",
-      "tags": ["Healthcare", "Data Analysis", "Digital Health"],
-      "companyName": "MediTech Solutions",
-      "companyIconUrl": "fa-solid fa-building",
-      "members": [
-        {
-          "primaryColor": "#dfb2d4",
-          "name": "Lucas Barros",
-          "role": "Medical Researcher",
-          "description": "Leads research and development of new digital healthcare tools.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        },
-        {
-          "primaryColor": "#dfb2d4",
-          "name": "Isabela Rocha",
-          "role": "Data Scientist",
-          "description": "Analyzes patient data to improve healthcare delivery and outcomes.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        }
-      ]
     }
   ]
 }
