@@ -144,35 +144,6 @@
           "photoUrl": "https://github.com/yoko-takano.png"
         }
       ]
-    },
-    {
-      "id": 6,
-      "secondaryColor": "#FFBA05",
-      "name": "AgroTech Solutions",
-      "iconUrl": "fa-solid fa-wheat-awn",
-      "description": "AgroTech Solutions focuses on integrating technology in agriculture to enhance productivity and sustainability. The project involves precision farming, drone technology, and sustainable resource management.",
-      "startDate": "2023-07-10",
-      "endDate": "2024-08-15",
-      "projectLink": "https://agrotechsolutions.com",
-      "tags": ["Agriculture", "Technology", "Sustainability"],
-      "companyName": "Modern Farming Innovations",
-      "companyIconUrl": "fa-solid fa-building",
-      "members": [
-        {
-          "primaryColor": "#ffe090",
-          "name": "Pedro Gonçalves",
-          "role": "Agricultural Engineer",
-          "description": "Develops and implements precision farming techniques and technologies.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        },
-        {
-          "primaryColor": "#ffe090",
-          "name": "Julia Santos",
-          "role": "Resource Manager",
-          "description": "Manages sustainable resource use and implements eco-friendly farming practices.",
-          "photoUrl": "https://github.com/yoko-takano.png"
-        }
-      ]
     }
   ]
 }
